@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/phone-order-app/static/css/main.efdca427.chunk.css",
-    "main.js": "/phone-order-app/static/js/main.00735551.chunk.js",
-    "main.js.map": "/phone-order-app/static/js/main.00735551.chunk.js.map",
+    "main.js": "/phone-order-app/static/js/main.dd326bc3.chunk.js",
+    "main.js.map": "/phone-order-app/static/js/main.dd326bc3.chunk.js.map",
     "runtime-main.js": "/phone-order-app/static/js/runtime-main.9a135abc.js",
     "runtime-main.js.map": "/phone-order-app/static/js/runtime-main.9a135abc.js.map",
     "static/js/2.9f0d04bd.chunk.js": "/phone-order-app/static/js/2.9f0d04bd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a135abc.js",
     "static/js/2.9f0d04bd.chunk.js",
     "static/css/main.efdca427.chunk.css",
-    "static/js/main.00735551.chunk.js"
+    "static/js/main.dd326bc3.chunk.js"
   ]
 }
