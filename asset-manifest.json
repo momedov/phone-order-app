@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phone-order-app/static/css/main.efdca427.chunk.css",
+    "main.js": "/phone-order-app/static/js/main.dd326bc3.chunk.js",
+    "main.js.map": "/phone-order-app/static/js/main.dd326bc3.chunk.js.map",
+    "runtime-main.js": "/phone-order-app/static/js/runtime-main.9a135abc.js",
+    "runtime-main.js.map": "/phone-order-app/static/js/runtime-main.9a135abc.js.map",
+    "static/js/2.9f0d04bd.chunk.js": "/phone-order-app/static/js/2.9f0d04bd.chunk.js",
+    "static/js/2.9f0d04bd.chunk.js.map": "/phone-order-app/static/js/2.9f0d04bd.chunk.js.map",
+    "index.html": "/phone-order-app/index.html",
+    "static/css/main.efdca427.chunk.css.map": "/phone-order-app/static/css/main.efdca427.chunk.css.map",
+    "static/js/2.9f0d04bd.chunk.js.LICENSE.txt": "/phone-order-app/static/js/2.9f0d04bd.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/phone-order-app/static/media/meals.2971f633.jpg",
+    "static/media/mf_logo.ecc8b614.png": "/phone-order-app/static/media/mf_logo.ecc8b614.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a135abc.js",
+    "static/js/2.9f0d04bd.chunk.js",
+    "static/css/main.efdca427.chunk.css",
+    "static/js/main.dd326bc3.chunk.js"
+  ]
+}
